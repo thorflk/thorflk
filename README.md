@@ -1,4 +1,4 @@
-# Hi, I'm Thor
+# Hi, I'm Thor 👋
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=FF6A2B&vCenter=true&width=520&lines=Computer+Science+student+at+FIAP;Web+%C2%B7+Data+%C2%B7+AI;Turning+real+problems+into+code;Looking+for+my+first+internship" alt="Typing animation" />
 
