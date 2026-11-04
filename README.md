@@ -1,5 +1,7 @@
 # Hi, I'm Thor
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=FF6A2B&vCenter=true&width=520&lines=Computer+Science+student+at+FIAP;Web+%C2%B7+Data+%C2%B7+AI;Turning+real+problems+into+code;Looking+for+my+first+internship" alt="Typing animation" />
+
 <a href="https://www.linkedin.com/in/thor-ferreira-camargo" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="mailto:thorfcamargo21@gmail.com"><img src="https://img.shields.io/badge/Email-FF6A2B?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
 
@@ -17,7 +19,7 @@ Working in operations taught me to listen to the people who will use a system be
 
 ## Tools & Frameworks
 
-<img src="https://skillicons.dev/icons?i=react,vite,git,github,vscode" alt="React, Vite, Git, GitHub, VS Code" />
+<img src="https://skillicons.dev/icons?i=react,vite,git,github,vscode,pycharm" alt="React, Vite, Git, GitHub, VS Code, PyCharm" />
 
 ## Data
 
@@ -25,7 +27,7 @@ Working in operations taught me to listen to the people who will use a system be
 
 ## AI
 
-<img src="https://cdn.simpleicons.org/claude" height="48" alt="Claude" /> <img src="https://cdn.simpleicons.org/googlegemini" height="48" alt="Gemini" />
+<img src="https://cdn.simpleicons.org/claude" height="48" alt="Claude" /> <img src="https://cdn.simpleicons.org/googlegemini" height="48" alt="Gemini" /> <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" height="48" alt="ChatGPT" />
 
 ---
 
@@ -63,5 +65,10 @@ Working in operations taught me to listen to the people who will use a system be
 Portuguese (native) · English (basic, improving)
 
 ---
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/thorflk/thorflk/output/snake-dark.svg" />
+  <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/thorflk/thorflk/output/snake-light.svg" />
+</picture>
 
 Open to talking about web development, data, AI and internship opportunities in São Paulo.
